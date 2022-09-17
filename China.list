@@ -20,7 +20,7 @@ user-agent,TeamViewer*,DIRECT
 user-agent,TIM*,DIRECT
 user-agent,ting_en,DIRECT
 user-agent,WebTorrent*,DIRECT
-user-agent,WeChat*,DIRECT
+#user-agent,WeChat*,DIRECT
 # GeoIP CN段 直联
 GEOIP,CN,DIRECT
 
